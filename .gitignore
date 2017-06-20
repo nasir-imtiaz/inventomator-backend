@@ -69,3 +69,4 @@ modules.xml
 ## ignoring target file
 target/
 
+*.mwb.bak
